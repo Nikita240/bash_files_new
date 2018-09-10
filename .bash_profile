@@ -43,4 +43,4 @@ if [ -f ~/.bash_files/init.sh ]; then
 fi
 
 # Navigate to code directory
-cd ~/Documents/Code
+#cd ~/Documents/Code
