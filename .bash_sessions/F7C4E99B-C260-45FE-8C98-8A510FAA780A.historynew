@@ -1,0 +1,19 @@
+ll
+vim test
+ls
+cd Documents
+ls -la
+mkdir Code
+ls
+cd Code
+ls
+git pull drwxr-xr-x  293 root  wheel   9376 Aug 27 12:39 lib
+git pull git@soundadgroup.git.beanstalkapp.com:/soundadgroup/pingpost.git
+git clone git@soundadgroup.git.beanstalkapp.com:/soundadgroup/pingpost.git
+cat ~/.ssh/id_rsa.pub | pbcopy
+git clone git@soundadgroup.git.beanstalkapp.com:/soundadgroup/pingpost.git
+ll
+ls
+cd pingpost
+ll
+ls
