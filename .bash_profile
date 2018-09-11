@@ -36,10 +36,14 @@ export SCM_CHECK=true
 # Load Bash It
 source $BASH_IT/bash_it.sh
 
-
 # .bash_files initialization
 if [ -f ~/.bash_files/init.sh ]; then
 	. ~/.bash_files/init.sh
+fi
+
+# grc initialization
+if [ -f /usr/local/etc/grc.bashrc ]; then
+	 . /usr/local/etc/grc.bashrc
 fi
 
 # Navigate to code directory

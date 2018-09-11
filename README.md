@@ -2,7 +2,7 @@
 
 Just stick these files into your ~ directory.
 
-Install `figlet` and `lolcat` for cool motd effects.
+Install `figlet` and `lolcat` for cool motd effects. Install `grc` for colored log output.
 
 Install:
 1. `cd ~`
