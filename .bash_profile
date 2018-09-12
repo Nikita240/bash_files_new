@@ -1,3 +1,7 @@
+# Load .bashrc file
+if [ -f $HOME/.bashrc ]; then
+  . $HOME/.bashrc
+fi
 
 # Path to the bash it configuration
 export BASH_IT="$HOME/.bash_it"
